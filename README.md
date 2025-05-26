@@ -73,4 +73,18 @@ No projeto foi necessário antes de tudo levantar os requisitos, e como parte fu
   </tbody>
 </table>
 
+### Integrantes
 
+<table border="1">
+  <thread>
+    <tr>
+      <th>Nome</th>
+      <th>O que fez</th>
+      <th>Cartão</th>
+    </tr>
+  </thread>
+  <tbody>
+    <td>Felype Dantas dos Santos</td>
+    <td>Levantamento de requisitos</td>
+    <td>Clique <a href="https://felypedantas.github.io/Cartao_visitas/">aqui</a></td>
+  </tbody>
